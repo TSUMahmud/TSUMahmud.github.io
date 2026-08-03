@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tarek Mahmud, Ph.D."
 title_separator          : "-"
 name                     : &name "Tarek Mahmud, Ph.D."
-description              : &description "Assistant Professor at Texas A&M University–Kingsville."
+description              : &description "Tenure-track Assistant Professor at Texas A&M University–Kingsville."
 url                      : https://tsumahmud.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TSUMahmud/TSUMahmud.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Tarek Mahmud, Ph.D."
-  #pronouns         : he/his
+  pronouns         : he/his
   bio              : "Assistant Professor"
   location         : "Kingsville, TX"
   employer         : "Texas A&M University–Kingsville"

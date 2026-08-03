@@ -33,4 +33,4 @@ September 2024–Present
 - **2025:** Published work on document-guided fuzzing of OpenCV at ICSME 2025.
 - **2025:** Published work on automated Android deprecated API updates in IEEE Transactions on Software Engineering.
 - **2025:** Published an empirical study of Android app testing in Empirical Software Engineering.
-- **September 2024:** Joined Texas A&M University–Kingsville as an Assistant Professor.
+- **2025:** Joined Texas A&M University–Kingsville as an Assistant Professor.
