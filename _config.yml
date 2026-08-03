@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Selim, Ph.D."
+title                    : "Tarek Mahmud, Ph.D."
 title_separator          : "-"
-name                     : &name "Mohammad Selim, Ph.D."
-description              : &description "I am an Assistant Professor at Florida Polytechnic University."
-url                      : https://selimmd.github.io
+name                     : &name "Tarek Mahmud, Ph.D."
+description              : &description "Assistant Professor at Texas A&M University–Kingsville."
+url                      : https://tsumahmud.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "selimmd/selimd.github.io"
+repository               : "TSUMahmud/TSUMahmud.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,16 +22,16 @@ repository               : "selimmd/selimd.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Mohammad Selim, Ph.D."
+  name             : "Tarek Mahmud, Ph.D."
   #pronouns         : he/his
   bio              : "Assistant Professor"
-  location         : "Lakeland, FL"
-  employer         : "Florida Polytechnic University"
-  uri              : https://selimmd.github.io
-  email            : "selim.iitdu@gmail.com" 
+  location         : "Kingsville, TX"
+  employer         : "Texas A&M University–Kingsville"
+  uri              : https://tsumahmud.github.io
+  email            : "tsmrafee@gmail.com" 
 
   # Academic websites
-  googlescholar    : https://scholar.google.com/citations?user=lx7UxJcAAAAJ&hl=en"  
+  googlescholar    : https://scholar.google.com/citations?user=o4t64XEAAAAJ  
   # arxiv            : # URL - Update with the correct link to your profile
 
   # impactstory      : # URL
@@ -57,7 +57,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : md-mohammad-selim-6510b7134
+  linkedin         : tarek-salah-uddin-mahmud-554a1a137
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
