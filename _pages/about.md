@@ -15,16 +15,16 @@ My research focuses on software engineering, software security, and artificial i
 ## Research Interests
 
 - Mobile Software Engineering
-- Software Security
 - AI in Software Engineering
+- Software Security
 - Software Evolution and Maintenance
 
 ## Current Position
 
-**Assistant Professor**  
+**Tenure-track Assistant Professor**  
 Department of Computer Science  
 Texas A&M University–Kingsville  
-September 2024–Present
+August 2025–Present
 
 ## Selected News
 
