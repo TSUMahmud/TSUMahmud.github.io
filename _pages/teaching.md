@@ -13,11 +13,13 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### 2024
-#### [Fall 2024 | Natural Language Processing](https://selimmd.github.io/nlp2024/)  Northeastern university
-#### [Spring 2024 | Advance Software Design] Northeastern university
+### 2026 (Texas A&M University-Kingsville)
+#### Fall 2026: CSEN2304 Introduction to Computer Science
+#### Spring 2026: CSEN2328 Data Structures & Algorithms
+
 <br/>
 
-### 2022
-#### [Fall 2022 | Engineering I] First year engineering at the University of Kentucky
+### 2025 (Texas A&M University-Kingsville)
+#### Fall 2025: CSEN5346 Data Science I
 <br/>
+
